@@ -13,6 +13,7 @@ kaggle competitions download -c fashion-product-images-dataset
 <img src="images/distribution.png"> 
 
 Примеры изображений представлены ниже. 
+
 <img src="images/sampledata.png"> 
 <img src="images/sampledata2.png"> 
 
@@ -25,5 +26,6 @@ kaggle competitions download -c fashion-product-images-dataset
 
 ## Результаты
 На выходе данная нейронная сеть формирует изображение с предсказанным классом и степенью уверенности в предсказании.
+
 <img src="images/output.png"> 
 

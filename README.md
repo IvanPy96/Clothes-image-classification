@@ -1,4 +1,4 @@
-# Clothes images classification
+# Clothes images classification (pet-project)
 Данный репозиторий содержит обученную нейронную сеть, распознающую 54 класса одежды и аксессуаров. 
 
 ## Датасет
